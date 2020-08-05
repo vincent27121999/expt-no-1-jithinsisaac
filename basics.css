@@ -1,0 +1,23 @@
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color: bisque;
+}
+
+h1 {
+  color: crimson;   
+}
+
+hr{
+  border-top: 2px solid maroon;
+  width:20;
+
+}
+
+table, th, td{ 
+  border: 1px solid black;
+}
+
+#submitbutton{
+  background-color: brown;
+  color: white;   
+}
