@@ -31,7 +31,7 @@ To learn the basics of HTML & CSS & Bootstrap.
  ![Output1](output1.png) 
 
 #### Output video link
- Output Video Link [Output1](https://drive.google.com/file/d/1yDTDFoH61HJtHhNwGfd2ZgfkBZqDXTgx/view?usp=sharing)
+ Experiment 1 Part A: [Output Video Link on Google Drive](https://drive.google.com/file/d/1yDTDFoH61HJtHhNwGfd2ZgfkBZqDXTgx/view?usp=sharing)
 
 ### Submission Details
 - **Submitted on** 18-8-2020
