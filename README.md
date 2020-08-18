@@ -26,14 +26,9 @@ To learn the basics of HTML & CSS & Bootstrap.
 - basics.html & basics.css files are used to learn basic syntaxes of HTML & CSS
 - Every student will be given a country, he/she will have to modify the HTML & CSS file and submit
 - **PLEASE ADD OVER HERE THE PROCEDURE THAT YOU FOLLOWED FOR COMPLETING THE EXPERIMENT**
-
-#### Output screenshots
- ![Output1](output1.png) 
-
-#### Output video link
- Experiment 1 Part A: [Output Video Link on Google Drive](https://drive.google.com/file/d/1yDTDFoH61HJtHhNwGfd2ZgfkBZqDXTgx/view?usp=sharing)
+- **ADD SCREENSHOTS OF YOUR OUTPUT HERE (Learn how to insert images in markdown format using https://www.markdownguide.org/basic-syntax/#images)**
 
 ### Submission Details
-- **Submitted on** 18-8-2020
-- **Submitted by** Jithin Student
-- **Roll No.** 99
+- **Submitted on** 4-8-2020
+- **Submitted by** Jithin Isaac
+- **Roll No.** 111
